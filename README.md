@@ -35,6 +35,6 @@ Balanced accuracy score is 77.3%
 Balanced accuracy score is 93.1%
 ![image](https://user-images.githubusercontent.com/107962343/202913481-f33a45e2-ad05-40ca-9e45-0bf4e859cfbb.png)
 
-### Summary
+# Summary
 
 Out of all the models used, it appears that the Easy Ensemble AdaBoost Classifier model had the best results at predicting which loans are high or low risk, with a very high accuracy score and a really good balance of precision and recall scores. 
